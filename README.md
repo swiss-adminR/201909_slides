@@ -10,7 +10,7 @@ Reto Messikommer
 Laurent Donzé
 
 ### Demographical Long-Term Financing of the Swiss Social Insurances
-Layal Christine Lettry
+Layal Christine Lettry  
 https://github.com/swiss-adminR/201909_slides/blob/master/2019_09_19_plc_presentation_delfin.pdf
 
 ### Handling of spatial data with R at the Statistical Office of the Canton of Zurich
