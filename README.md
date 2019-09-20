@@ -14,6 +14,5 @@ https://github.com/swiss-adminR/201909_slides/blob/master/2019_09_19_plc_present
 Layal Christine Lettry  
 
 ### Handling of spatial data with R at the Statistical Office of the Canton of Zurich
+https://github.com/statistikZH/R_AS_GIS  
 Katharina Kälin
-
-https://github.com/statistikZH/R_AS_GIS
