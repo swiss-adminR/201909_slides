@@ -4,6 +4,7 @@ Slides of the [Autumn Meetup](https://www.meetup.com/de-DE/adminR/events/2638352
 
 
 ### R at the Statistical Office of the Canton of Fribourg
+https://github.com/swiss-adminR/201909_slides/blob/master/adminR-2019-09-19-présentation-Stat-FR.pdf  
 Reto Messikommer
 
 ### Introducing the Group for Applied Statistics and Modeling
