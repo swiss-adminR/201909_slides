@@ -8,6 +8,7 @@ https://github.com/swiss-adminR/201909_slides/blob/master/adminR-2019-09-19-pré
 Reto Messikommer
 
 ### Introducing the Group for Applied Statistics and Modeling
+https://prezi.com/view/gKsw34yZk8mEVIq5K0pb  
 Laurent Donzé
 
 ### Demographical Long-Term Financing of the Swiss Social Insurances
